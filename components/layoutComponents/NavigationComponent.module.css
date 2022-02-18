@@ -1,0 +1,39 @@
+/* .layout {
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem;
+}
+
+.layout ul {
+	list-style: none;
+	display: flex;
+}
+
+.layout li {
+	padding: 0.5rem;
+}
+
+.layout nav {
+	width: 40%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.layout div {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+} */
+
+.layout a {
+	text-decoration: none;
+	color: white;
+}
+
+.brandColor {
+	font-size: 2.5rem;
+}
+
+.layout li {
+	font-size: 1.2rem;
+}

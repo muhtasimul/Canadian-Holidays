@@ -1,0 +1,48 @@
+.card {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	color: #1a1a1a;
+	padding: 1rem;
+}
+
+.card button {
+	color: white;
+	border: 1px solid white;
+	background-color: #ff6666;
+}
+
+.card button:hover {
+	background-color: #b30000;
+	color: #cccccc;
+}
+
+.card h5 {
+	color: #4d4d4d;
+}
+
+.card2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	color: #1a1a1a;
+	height: 100vh;
+	padding: 1rem;
+}
+
+.card2 button {
+	color: white;
+	border: 1px solid white;
+	background-color: #ff6666;
+}
+
+.card2 button:hover {
+	background-color: #b30000;
+	color: #cccccc;
+}
+
+.card2 h5 {
+	color: #4d4d4d;
+}

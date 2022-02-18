@@ -2,8 +2,8 @@
 
 <p>This is a web app created using Next.js & MONGO DB. This app list all the us Canadians enjoy every year.</p>
 
-<p>This app can be viewed at the link below</p>
-https://canadian-holidays-lix73v0iq-muhtasimul.vercel.app/
+<p>This app can be viewed at the link below: </p>
+https://canadian-holidays-ohbdl5lzy-muhtasimul.vercel.app/
 
 <hr/>
 <h4>Next.js Instructions</h4>
